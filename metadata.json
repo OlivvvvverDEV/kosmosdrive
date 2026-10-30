@@ -1,0 +1,8 @@
+{
+  "name": "Kosmos Drive 7.0",
+  "description": "kosmos drive API",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
